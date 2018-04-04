@@ -6,7 +6,7 @@
 	<!-- Styling for public area -->
 	<link rel="stylesheet" href="static/css/public_styling.css">
 	<meta charset="UTF-8">
-	<title>LifeBlog | Home </title>
+	<title>Caiu na web | Home </title>
 </head>
 <body>
 	<!-- container - wraps whole page -->
@@ -27,7 +27,7 @@
 
 		<!-- Page content -->
 		<div class="content">
-			<h2 class="content-title">Recent Articles</h2>
+			<h2 class="content-title">Caiu na web 4.0</h2>
 			<hr>
 			<!-- more content still to come here ... -->
 		</div>
