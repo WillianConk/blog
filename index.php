@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <?php require_once('includes/head_section.php') ?>
+<!-- navbar -->
+<?php include('includes/navbar.php') ?>
 	<title> Programing | Home </title>
 </head>
 <body>
