@@ -27,7 +27,7 @@
 
 		<!-- Page content -->
 		<div class="content">
-			<h2 class="content-title">Willian Conk</h2>
+			<h2 class="content-title">Programing</h2>
 			<hr>
 			<!-- more content still to come here ... -->
 		</div>
