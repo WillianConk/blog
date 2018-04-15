@@ -6,7 +6,7 @@
 	<!-- Styling for public area -->
 	<link rel="stylesheet" href="static/css/public_styling.css">
 	<meta charset="UTF-8">
-	<title>Programing| Home </title>
+	<title> Programing | Home </title>
 </head>
 <body>
 	<!-- container - wraps whole page -->
