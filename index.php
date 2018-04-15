@@ -6,7 +6,7 @@
 	<!-- Styling for public area -->
 	<link rel="stylesheet" href="static/css/public_styling.css">
 	<meta charset="UTF-8">
-	<title>Personal blog| Home </title>
+	<title>Personal Blog| Home </title>
 </head>
 <body>
 	<!-- container - wraps whole page -->
@@ -14,7 +14,7 @@
 		<!-- navbar -->
 		<div class="navbar">
 			<div class="logo_div">
-				<a href="index.php"><h1>LifeBlog</h1></a>
+				<a href="index.php"><h1>PersonalBlog</h1></a>
 			</div>
 			<ul>
 			  <li><a class="active" href="index.php">Home</a></li>
