@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <?php require_once('includes/head_section.php') ?>
+<?php require_once('includes/head_section.php') ?>
 	<title> Programing | Home </title>
 </head>
 <body>
