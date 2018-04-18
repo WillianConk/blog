@@ -1,5 +1,5 @@
 <!-- navbar -->
-<?php include('includes/navbar.php') ?>
+<?php require_once('includes/head_section.php') ?>
 	<title> Programing | Home </title>
 </head>
 <body>
